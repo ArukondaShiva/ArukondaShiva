@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**ArukondaShiva/ArukondaShiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me ❤️
+- 👩‍💻 I am a Software Engineer
+- 🎓 2022 B.Tech. graduate from IIIT Vadodara
+- 💼 Former SDE Intern at Saas Labs, India
+ 
 
-Here are some ideas to get you started:
+## Connect with Me 🌐
+- [LinkedIn](<https://www.linkedin.com/in/arukondashiva/>)
+- [Instagram](<https://www.instagram.com/arukonda_shiva/>)
+- [Twitter](<https://twitter.com/shiva_arukonda>)
+- [Gmail](<a.shiva16052000@gmail.com>)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Follow Me on LinkedIn 🖇
+- [LinkedIn](<https://www.linkedin.com/in/arukondashiva/>)
+
+## Pronouns 👯
+- He/Him
