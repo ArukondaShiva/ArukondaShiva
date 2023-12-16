@@ -3,7 +3,7 @@
 
 ## About Me ❤️
 - 👩‍💻 I am a Software Engineer
-- 🎓 2022 B.Tech. graduate from IIIT Vadodara
+- 🎓 B.Tech CSE graduate from IIIT Vadodara
 - 💼 Former SDE Intern at Saas Labs, India
  
 
